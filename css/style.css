@@ -79,3 +79,26 @@ p {
     background-color: #66493A;
     color: #FFC18C;
 }
+
+
+.importantbox {
+    background-color: #66493A;
+    color: #FFC18C;
+    width: 90%;
+}
+
+.importantbox>h1 {
+    color: #D73502;
+    font-size: 50px;
+}
+
+.importantbox>h3 {
+    color: #FFC18C;
+    font-size: 35px;
+}
+
+.importantbox>p {
+    color: #FFC18C;
+    font-size: 30px;
+    padding: 10px;
+}
