@@ -62,7 +62,7 @@ p {
 
     width: 100%;
     font-size: 50px;
-    background-color: #DA6D42;
+    background-color: darkslateblue;
 
     font-family: "timberline", sans-serif;
     font-weight: 400;
@@ -74,14 +74,20 @@ p {
 
 .orderbutton:hover {
     background-color: #FFD700;
-    color: #DA6D42;
+    color: darkslateblue;
 }
 
 
 .importantbox {
-    background-color: #66493A;
-    color: #FFC18C;
-    width: 90%;
+    background-color: darkslateblue;
+    color: #FFD700;
+
+    width: 75%;
+    font-size: 50px;
+    background-color: darkslateblue;
+
+    margin: auto;
+    text-align: center;
 }
 
 .importantbox>h1 {
