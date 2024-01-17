@@ -38,11 +38,6 @@ p {
     padding: 15px;
 }
 
-#buttonRegister{
-    color: #FFD700;
-    background: #262685;
-}
-
 @keyframes fadeIn {
 
     /* help https://blog.hubspot.com/website/css-fade-in */
@@ -63,6 +58,9 @@ p {
 }
 
 .orderbutton {
+    color: #FFD700;
+    background: #262685;
+
     width: 100%;
     font-size: 50px;
     background-color: #DA6D42;
@@ -78,4 +76,9 @@ p {
 .orderbutton:hover {
     background-color: #66493A;
     color: #FFC18C;
+}
+
+.col-md{
+    background-color: #DA6D42;
+    padding: 15px;
 }
