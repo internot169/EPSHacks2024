@@ -30,6 +30,11 @@ p {
     padding: 15px;
 }
 
+#buttonRegister{
+    color: #FFD700;
+    background: #262685;
+}
+
 @keyframes fadeIn {
 
     /* help https://blog.hubspot.com/website/css-fade-in */
