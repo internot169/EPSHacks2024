@@ -31,6 +31,10 @@ p {
 
 .title {
     animation: fadeIn 2s;
+}
+
+.titlepad{
+    animation: fadeIn 2s;
     padding: 15px;
 }
 
