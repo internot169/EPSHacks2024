@@ -1,0 +1,42 @@
+body {
+    /* BACKGROUND */
+    background: url(/images/code.png), #000080;
+
+    /* FONT AND COLOR */
+    font-family: "blanket", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #66493A;
+}
+
+h1,
+h2,
+h3 {
+    /* FONT AND COLOR */
+    font-family: "lemongrass-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    text-align: center;
+}
+
+footer {
+    background-color: #D73502;
+}
+
+.title {
+    animation: fadeIn 2s;
+    padding: 15px;
+}
+
+@keyframes fadeIn {
+
+    /* help https://blog.hubspot.com/website/css-fade-in */
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
